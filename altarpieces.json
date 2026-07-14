@@ -18,7 +18,7 @@
       "versionDate": "2025-09-26",
       "versionDescription": "Changes:\n- Fix app crash (@NicholasBly)\n- Fix ad comments showing under posts (@Laitinlok)\n- Fix popular feed not showing with recommendations disabled\n- Move RedditFilter settings to the user drawer / side bar (accessed by tapping the profile picture in the top right)",
       "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.37.0-1.1.8/RedditFilter_2025.37.0-1.1.8.ipa",
-      "size": 0,
+      "size": 137114565,
       "localizedDescription": "Filter out unwanted content from your Reddit feed: promoted posts, recommendations, livestreams, NSFW content, and awards.",
       "iconURL": "",
       "tintColor": "FF4500",
@@ -30,7 +30,7 @@
           "date": "2025-09-26",
           "localizedDescription": "Changes:\n- Fix app crash (@NicholasBly)\n- Fix ad comments showing under posts (@Laitinlok)\n- Fix popular feed not showing with recommendations disabled\n- Move RedditFilter settings to the user drawer / side bar (accessed by tapping the profile picture in the top right)",
           "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.37.0-1.1.8/RedditFilter_2025.37.0-1.1.8.ipa",
-          "size": 0,
+          "size": 137114565,
           "minOSVersion": "16.0"
         }
       ]
@@ -38,3 +38,4 @@
   ],
   "news": []
 }
+
