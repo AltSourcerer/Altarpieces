@@ -4,7 +4,7 @@
   "apiVersion": "v2",
   "subtitle": "Reddit feed filtering tweak",
   "description": "AltStore/Feather/SideStore/LiveContainer source for RedditFilter. Filter out unwanted content from your Reddit feed, including promoted posts, recommendations, livestreams, NSFW posts, and awards.",
-  "iconURL": "",
+  "iconURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/redditfilter-icon.png",
   "website": "https://github.com/level3tjg/RedditFilter",
   "sourceURL": "https://raw.githubusercontent.com/mrdrvt99/Altstore-Repository/main/redditfilter.json",
   "apps": [
@@ -20,7 +20,7 @@
       "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.37.0-1.1.8/RedditFilter_2025.37.0-1.1.8.ipa",
       "size": 137114565,
       "localizedDescription": "Filter out unwanted content from your Reddit feed: promoted posts, recommendations, livestreams, NSFW content, and awards.",
-      "iconURL": "",
+      "iconURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/redditfilter-icon.png",
       "tintColor": "FF4500",
       "screenshotURLs": [],
       "sha256": "1e33615cc37168e84256fd6c487a77cf8b11fe187532daf7331b707b664c07e3",
@@ -38,4 +38,3 @@
   ],
   "news": []
 }
-
