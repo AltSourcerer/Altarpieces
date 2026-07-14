@@ -1,1 +1,40 @@
-
+{
+  "name": "RedditFilter",
+  "identifier": "com.level3tjg.redditfilter",
+  "apiVersion": "v2",
+  "subtitle": "Reddit feed filtering tweak",
+  "description": "AltStore/Feather/SideStore/LiveContainer source for RedditFilter. Filter out unwanted content from your Reddit feed, including promoted posts, recommendations, livestreams, NSFW posts, and awards.",
+  "iconURL": "",
+  "website": "https://github.com/level3tjg/RedditFilter",
+  "sourceURL": "https://raw.githubusercontent.com/mrdrvt99/Altstore-Repository/main/redditfilter.json",
+  "apps": [
+    {
+      "name": "RedditFilter",
+      "bundleIdentifier": "com.level3tjg.redditfilter",
+      "developerName": "level3tjg",
+      "subtitle": "RedditFilter",
+      "category": "social-networking",
+      "version": "2025.37.0-1.1.8",
+      "versionDate": "2025-09-26",
+      "versionDescription": "Changes:\n- Fix app crash (@NicholasBly)\n- Fix ad comments showing under posts (@Laitinlok)\n- Fix popular feed not showing with recommendations disabled\n- Move RedditFilter settings to the user drawer / side bar (accessed by tapping the profile picture in the top right)",
+      "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.37.0-1.1.8/RedditFilter_2025.37.0-1.1.8.ipa",
+      "size": 0,
+      "localizedDescription": "Filter out unwanted content from your Reddit feed: promoted posts, recommendations, livestreams, NSFW content, and awards.",
+      "iconURL": "",
+      "tintColor": "FF4500",
+      "screenshotURLs": [],
+      "sha256": "1e33615cc37168e84256fd6c487a77cf8b11fe187532daf7331b707b664c07e3",
+      "versions": [
+        {
+          "version": "2025.37.0-1.1.8",
+          "date": "2025-09-26",
+          "localizedDescription": "Changes:\n- Fix app crash (@NicholasBly)\n- Fix ad comments showing under posts (@Laitinlok)\n- Fix popular feed not showing with recommendations disabled\n- Move RedditFilter settings to the user drawer / side bar (accessed by tapping the profile picture in the top right)",
+          "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.37.0-1.1.8/RedditFilter_2025.37.0-1.1.8.ipa",
+          "size": 0,
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
