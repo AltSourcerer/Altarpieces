@@ -10,7 +10,7 @@
   "apps": [
     {
       "name": "RedditFilter",
-      "bundleIdentifier": "com.level3tjg.redditfilter",
+      "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "level3tjg",
       "subtitle": "RedditFilter",
       "category": "social-networking",
