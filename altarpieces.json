@@ -42,6 +42,39 @@
           "minOSVersion": "16.0"
         }
       ]
+    },
+    {
+      "name": "RXTikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "raulsaeed",
+      "subtitle": "The Most Awesome TikTok Tweak for iOS",
+      "category": "social-networking",
+      "version": "43.9.0",
+      "versionDate": "2026-03-08",
+      "versionDescription": "RXTikTok 1.6.6 RELEASE:\n\nADDED:\n- [NEW] Bypass Russia Ban 🇷🇺 (without VPN)\n- Block More Types of ADs/Content\n  · MovieTok\n  · AI Generated Content\n  · Appstore App Downloads\n- Save Your Drafts/Posts Without Watermarks\n- Download Live Photos as Videos\n- Download Stickers\n- Remove Sticker Recommendations\n- Confirmation for Quick Sharing\n- Confirmation for Quick Reposting\n- Hide RX Elements in Screenshots\n- Upload Custom Voice Messages\n- Remove Report Flag in DMs\n\nFIXED:\n- “Hide ADs”\n- Story Videos Crashing\n- Photo Quality Downloads\n- Photo Comments Not Saving\n- Importing Configurations\n- Some Feature Descriptions Cut Early\n- Fake Verification Badge\n- “Hide Play/Pause Button” Black Stories\n- Some Broken Strings\n\nCHANGED:\n- Profile Picture Saving Layout\n- Refactored Filtering Settings\n  · New submenu in “Feed Settings”\n\nREMOVED:\n- Enable HD Uploads\n- Comment Location Flags\n(these 2 features were either partially or entirely broken)",
+      "downloadURL": "https://github.com/RXTikTok/rxtiktok.github.io/releases/download/1.6.6/RXTikTok-v1.6.6_43.9.0.2.ipa",
+      "size": 361528379,
+      "localizedDescription": "RXTikTok is a TikTok tweak that blocks ads/recommendations, removes watermarks on saved drafts, downloads Live Photos and stickers, and adds a range of privacy and UX tweaks on top of the official TikTok app.",
+      "iconURL": "https://github.com/RXTikTok/rxtiktok.github.io/blob/main/icons/RXLogo.jpg?raw=true",
+      "tintColor": "9b54fd",
+      "screenshotURLs": [
+        "https://github.com/RXTikTok/rxtiktok.github.io/blob/main/screenshots/photo_2025-08-18%2001.19.06.jpeg?raw=true",
+        "https://github.com/RXTikTok/rxtiktok.github.io/blob/main/screenshots/photo_2025-08-18%2001.19.03.jpeg?raw=true",
+        "https://github.com/RXTikTok/rxtiktok.github.io/blob/main/screenshots/photo_2025-08-18%2001.19.01.jpeg?raw=true",
+        "https://github.com/RXTikTok/rxtiktok.github.io/blob/main/screenshots/photo_2025-08-18%2001.18.58.jpeg?raw=true",
+        "https://github.com/RXTikTok/rxtiktok.github.io/blob/main/screenshots/photo_2025-08-18%2001.18.53.jpeg?raw=true"
+      ],
+      "sha256": "8db5258b016869bc515915f731780eece9b66ecb12530d204834e2e381f08369",
+      "versions": [
+        {
+          "version": "43.9.0",
+          "date": "2026-03-08",
+          "localizedDescription": "RXTikTok 1.6.6 RELEASE:\n\nADDED:\n- [NEW] Bypass Russia Ban 🇷🇺 (without VPN)\n- Block More Types of ADs/Content\n  · MovieTok\n  · AI Generated Content\n  · Appstore App Downloads\n- Save Your Drafts/Posts Without Watermarks\n- Download Live Photos as Videos\n- Download Stickers\n- Remove Sticker Recommendations\n- Confirmation for Quick Sharing\n- Confirmation for Quick Reposting\n- Hide RX Elements in Screenshots\n- Upload Custom Voice Messages\n- Remove Report Flag in DMs\n\nFIXED:\n- “Hide ADs”\n- Story Videos Crashing\n- Photo Quality Downloads\n- Photo Comments Not Saving\n- Importing Configurations\n- Some Feature Descriptions Cut Early\n- Fake Verification Badge\n- “Hide Play/Pause Button” Black Stories\n- Some Broken Strings\n\nCHANGED:\n- Profile Picture Saving Layout\n- Refactored Filtering Settings\n  · New submenu in “Feed Settings”\n\nREMOVED:\n- Enable HD Uploads\n- Comment Location Flags\n(these 2 features were either partially or entirely broken)",
+          "downloadURL": "https://github.com/RXTikTok/rxtiktok.github.io/releases/download/1.6.6/RXTikTok-v1.6.6_43.9.0.2.ipa",
+          "size": 361528379,
+          "minOSVersion": "14.0"
+        }
+      ]
     }
   ],
   "news": []
