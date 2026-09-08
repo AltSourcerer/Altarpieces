@@ -1,0 +1,111 @@
+{
+  "name": "YouMod",
+  "identifier": "com.mrdrvt99.youmod",
+  "apiVersion": "v2",
+  "subtitle": "Automated YouMod IPA builds",
+  "description": "AltStore/Feather/SideStore/LiveContainer source for YouMod. No ads, background playback, downloads, SponsorBlock, PiP, and more.",
+  "iconURL": "https://raw.githubusercontent.com/mrdrvt99/Altstore-Repository/main/assets/YouTube.png",
+  "website": "https://github.com/mrdrvt99/Altstore-Repository",
+  "sourceURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/youmod.json",
+  "apps": [
+    {
+      "name": "YouMod",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Tonwalter888",
+      "subtitle": "YouMod",
+      "category": "photo-video",
+      "version": "21.35.3",
+      "versionDate": "2026-08-30",
+      "versionDescription": "YouTube 21.35.3 | YouMod_21.35.3_2.0.0\n\n### Latest Release, ENJOY!!\n\n> [!NOTE]\n> - no YTUHD. it is broken in +21.25.5 versions as of now. max resolution is 1080p60. devices with native AV1 can still see 4K.\n> - [v2.0.0 release notes](https://github.com/Tonwalter888/YouMod/releases/tag/v2.0.0)\n> - - -\n> #### Extra Tweaks:\n> - `YouPip` `YTABConfig` `YouQuality` `YouChooseQuality`  `YouGetCaption` `YTHoldForSpeed` `YTNativeShare` `YTweaks`\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)` `Gonerino` `VolumeBoostYT` `PleaseDontStopTheMusic`\n\n> [!WARNING]\n> - Extra tweaks that are bundled may be unstable on newer versions.\n\n> [!WARNING]\n> - 21.34.3+ builds require iOS 17+ now.",
+      "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/youmod-ipa5/YouMod_21.35.3_2.0.0.ipa",
+      "size": 128284527,
+      "localizedDescription": "YouMod mod. Includes no ads, background playback, downloads, iSponsorBlock, PiP, and more.",
+      "iconURL": "https://raw.githubusercontent.com/mrdrvt99/Altstore-Repository/main/assets/YouTube.png",
+      "tintColor": "FF0000",
+      "screenshotURLs": [],
+      "sha256": "368bba97a2235bb88488c56e502968a4870ee281e9f4ef5906793c3416f4e6b6",
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
+          },
+          {
+            "name": "com.apple.developer.declared-age-range"
+          },
+          {
+            "name": "com.apple.developer.storekit.request-data"
+          },
+          {
+            "name": "com.apple.developer.device-information.user-assigned-device-name"
+          },
+          {
+            "name": "com.apple.developer.group-session"
+          },
+          {
+            "name": "keychain-access-groups"
+          },
+          {
+            "name": "com.apple.developer.networking.multicast"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.siri"
+          },
+          {
+            "name": "com.apple.developer.networking.wifi-info"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "NSCameraUsageDescription",
+            "usageDescription": "Used to record and upload videos to YouTube."
+          },
+          {
+            "name": "NSMicrophoneUsageDescription",
+            "usageDescription": "Used to record audio for videos."
+          },
+          {
+            "name": "NSPhotoLibraryUsageDescription",
+            "usageDescription": "Used to upload photos and videos from your library."
+          },
+          {
+            "name": "NSPhotoLibraryAddUsageDescription",
+            "usageDescription": "Used to save videos to your photo library."
+          },
+          {
+            "name": "NSAppleMusicUsageDescription",
+            "usageDescription": "Allows access to Apple Music for background playback and media features."
+          },
+          {
+            "name": "NSBluetoothPeripheralUsageDescription",
+            "usageDescription": "Used for connecting to Bluetooth devices."
+          },
+          {
+            "name": "NSLocalNetworkUsageDescription",
+            "usageDescription": "Used to discover and connect to devices on your local network."
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "21.35.3",
+          "date": "2026-08-30",
+          "localizedDescription": "YouTube 21.35.3 | YouMod_21.35.3_2.0.0\n\n### Latest Release, ENJOY!!\n\n> [!NOTE]\n> - no YTUHD. it is broken in +21.25.5 versions as of now. max resolution is 1080p60. devices with native AV1 can still see 4K.\n> - [v2.0.0 release notes](https://github.com/Tonwalter888/YouMod/releases/tag/v2.0.0)\n> - - -\n> #### Extra Tweaks:\n> - `YouPip` `YTABConfig` `YouQuality` `YouChooseQuality`  `YouGetCaption` `YTHoldForSpeed` `YTNativeShare` `YTweaks`\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)` `Gonerino` `VolumeBoostYT` `PleaseDontStopTheMusic`\n\n> [!WARNING]\n> - Extra tweaks that are bundled may be unstable on newer versions.\n\n> [!WARNING]\n> - 21.34.3+ builds require iOS 17+ now.",
+          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/youmod-ipa5/YouMod_21.35.3_2.0.0.ipa",
+          "size": 128284527,
+          "sha256": "368bba97a2235bb88488c56e502968a4870ee281e9f4ef5906793c3416f4e6b6",
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
