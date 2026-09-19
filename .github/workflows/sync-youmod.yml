@@ -1,0 +1,32 @@
+name: Sync YouMod
+
+# Upstream rotates release tags and deletes the old assets, so a pinned
+# downloadURL goes dead roughly weekly. Re-point ours before anyone hits a 404.
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync youmod.json with upstream
+        run: python3 scripts/sync_youmod.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- youmod.json; then
+            echo "no change"
+            exit 0
+          fi
+          version=$(python3 -c "import json;print(json.load(open('youmod.json'))['apps'][0]['version'])")
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Update YouMod to $version" -- youmod.json
+          git push
