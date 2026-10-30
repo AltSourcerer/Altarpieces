@@ -3,27 +3,27 @@
   "identifier": "com.altarpieces.serenity",
   "apiVersion": "v2",
   "subtitle": "Ad-free TikTok builds",
-  "description": "AltStore/Feather/SideStore/LiveContainer source for Serenity — TikTok with feed ads, soft/pseudo ads and banners removed. License-free: no activation code, no gate.",
+  "description": "AltStore/Feather/SideStore/LiveContainer source for Serenity — TikTok with sponsored feed ads removed. License-free: no activation code, no gate.",
   "iconURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/assets/Serenity.png",
   "website": "https://github.com/AltSourcerer/Altarpieces",
   "sourceURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/serenity.json",
   "apps": [
     {
       "name": "Serenity",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleIdentifier": "com.ss.iphone.ugc.Ame",
       "developerName": "AltSourcerer",
       "subtitle": "Ad-free TikTok",
       "category": "social-networking",
-      "version": "47.5.0-5",
-      "versionDate": "2026-10-30",
-      "versionDescription": "TikTok 47.5.0-5 | Serenity\n\nAd-free build: feed ads, soft/pseudo ads and feed banners are removed. License-free — no activation code, no gate, nothing to unlock.\n\n> [!NOTE]\n> - Requires iOS 15.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
-      "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0-5/TikTok-Serenity-47.5.0-5.ipa",
-      "size": 493950546,
-      "localizedDescription": "TikTok without ads — feed ads, soft/pseudo ads and banners removed. License-free, nothing to unlock.",
+      "version": "43.9.0",
+      "versionDate": "2026-10-31",
+      "versionDescription": "TikTok 43.9.0 | Serenity\n\nAd-free build: sponsored feed ads are removed. License-free — no activation code, no gate, nothing to unlock.\n\n> [!NOTE]\n> - Requires iOS 12.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
+      "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-43.9.0/TikTok-Serenity-43.9.0.ipa",
+      "size": 394871385,
+      "localizedDescription": "TikTok without ads — sponsored feed ads removed. License-free, nothing to unlock.",
       "iconURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/assets/Serenity.png",
       "tintColor": "000000",
       "screenshotURLs": [],
-      "sha256": "6019cd30a48e66e33b7b1c4561e0f6a335d2415a639e7dfc10eafe51cf0ddb4c",
+      "sha256": "f1a7e72487d59616266462fe384f70462f9558a65c0d9450a409e027569eee5c",
       "appPermissions": {
         "entitlements": [
           {
@@ -34,9 +34,6 @@
           },
           {
             "name": "com.apple.developer.associated-domains"
-          },
-          {
-            "name": "com.apple.developer.declared-age-range"
           },
           {
             "name": "com.apple.developer.group-session"
@@ -57,10 +54,7 @@
             "name": "com.apple.developer.networking.wifi-info"
           },
           {
-            "name": "com.apple.developer.pass-type-identifiers"
-          },
-          {
-            "name": "com.apple.developer.payment-pass-provisioning"
+            "name": "com.apple.developer.nfc.readersession.formats"
           },
           {
             "name": "com.apple.developer.siri"
@@ -116,7 +110,7 @@
           },
           {
             "name": "NSLocationWhenInUseUsageDescription",
-            "usageDescription": "If location services are enabled, TikTok will collect, store and use your device's approximate location to improve your experience."
+            "usageDescription": "We will use your location to improve your experience, such as showing you more relevant content and ads"
           },
           {
             "name": "NSMicrophoneUsageDescription",
@@ -128,7 +122,7 @@
           },
           {
             "name": "NSPhotoLibraryUsageDescription",
-            "usageDescription": "To upload from or download to your device, allow access to your photos in your phone settings."
+            "usageDescription": "To upload photos or videos from your device, apply effects to your photos, and download posts, allow access to your photos."
           },
           {
             "name": "NSUserTrackingUsageDescription",
@@ -138,13 +132,13 @@
       },
       "versions": [
         {
-          "version": "47.5.0-5",
-          "date": "2026-10-30",
-          "localizedDescription": "TikTok 47.5.0-5 | Serenity\n\nAd-free build: feed ads, soft/pseudo ads and feed banners are removed. License-free — no activation code, no gate, nothing to unlock.\n\n> [!NOTE]\n> - Requires iOS 15.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
-          "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0-5/TikTok-Serenity-47.5.0-5.ipa",
-          "size": 493950546,
-          "sha256": "6019cd30a48e66e33b7b1c4561e0f6a335d2415a639e7dfc10eafe51cf0ddb4c",
-          "minOSVersion": "15.0"
+          "version": "43.9.0",
+          "date": "2026-10-31",
+          "localizedDescription": "TikTok 43.9.0 | Serenity\n\nAd-free build: sponsored feed ads are removed. License-free — no activation code, no gate, nothing to unlock.\n\n> [!NOTE]\n> - Requires iOS 12.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
+          "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-43.9.0/TikTok-Serenity-43.9.0.ipa",
+          "size": 394871385,
+          "sha256": "f1a7e72487d59616266462fe384f70462f9558a65c0d9450a409e027569eee5c",
+          "minOSVersion": "12.0"
         }
       ]
     }
