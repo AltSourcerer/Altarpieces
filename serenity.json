@@ -4,7 +4,7 @@
   "apiVersion": "v2",
   "subtitle": "Ad-free TikTok builds",
   "description": "AltStore/Feather/SideStore/LiveContainer source for Serenity — TikTok with ads, rewards ads and feed banners removed, plus downloads and watermark removal.",
-  "iconURL": "",
+  "iconURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/assets/Serenity.png",
   "website": "https://github.com/AltSourcerer/Altarpieces",
   "sourceURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/serenity.json",
   "apps": [
@@ -20,7 +20,7 @@
       "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0/TikTok-Serenity-47.5.0.ipa",
       "size": 500087189,
       "localizedDescription": "TikTok without ads — feed ads, rewards ads and banners removed, plus downloads and watermark removal.",
-      "iconURL": "",
+      "iconURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/assets/Serenity.png",
       "tintColor": "000000",
       "screenshotURLs": [],
       "sha256": "78933137c293c5c1767670ddd33545675256bc7c129fcc85ec34ca802ab27359",
