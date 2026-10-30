@@ -1,0 +1,153 @@
+{
+  "name": "Serenity",
+  "identifier": "com.altarpieces.serenity",
+  "apiVersion": "v2",
+  "subtitle": "Ad-free TikTok builds",
+  "description": "AltStore/Feather/SideStore/LiveContainer source for Serenity — TikTok with ads, rewards ads and feed banners removed, plus downloads and watermark removal.",
+  "iconURL": "",
+  "website": "https://github.com/AltSourcerer/Altarpieces",
+  "sourceURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/serenity.json",
+  "apps": [
+    {
+      "name": "Serenity",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "AltSourcerer",
+      "subtitle": "Ad-free TikTok",
+      "category": "social-networking",
+      "version": "47.5.0",
+      "versionDate": "2026-10-30",
+      "versionDescription": "TikTok 47.5.0 | Serenity\n\nAd-free build: feed ads, rewards ads, feed banners and top-feed items removed; adds a download menu and watermark removal.\n\n> [!NOTE]\n> - Requires iOS 15.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
+      "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0/TikTok-Serenity-47.5.0.ipa",
+      "size": 500087189,
+      "localizedDescription": "TikTok without ads — feed ads, rewards ads and banners removed, plus downloads and watermark removal.",
+      "iconURL": "",
+      "tintColor": "000000",
+      "screenshotURLs": [],
+      "sha256": "78933137c293c5c1767670ddd33545675256bc7c129fcc85ec34ca802ab27359",
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.applesignin"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.declared-age-range"
+          },
+          {
+            "name": "com.apple.developer.group-session"
+          },
+          {
+            "name": "com.apple.developer.in-app-payments"
+          },
+          {
+            "name": "com.apple.developer.kernel.extended-virtual-addressing"
+          },
+          {
+            "name": "com.apple.developer.kernel.increased-memory-limit"
+          },
+          {
+            "name": "com.apple.developer.networking.multicast"
+          },
+          {
+            "name": "com.apple.developer.networking.wifi-info"
+          },
+          {
+            "name": "com.apple.developer.pass-type-identifiers"
+          },
+          {
+            "name": "com.apple.developer.payment-pass-provisioning"
+          },
+          {
+            "name": "com.apple.developer.siri"
+          },
+          {
+            "name": "com.apple.developer.storekit.request-data"
+          },
+          {
+            "name": "com.apple.developer.usernotifications.communication"
+          },
+          {
+            "name": "com.apple.developer.usernotifications.time-sensitive"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "keychain-access-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "NSAppleMusicUsageDescription",
+            "usageDescription": "To select sound from your library, allow us to access your Apple Music."
+          },
+          {
+            "name": "NSBluetoothAlwaysUsageDescription",
+            "usageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices."
+          },
+          {
+            "name": "NSBluetoothPeripheralUsageDescription",
+            "usageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices."
+          },
+          {
+            "name": "NSCalendarsUsageDescription",
+            "usageDescription": "Add events to your device calendar to get reminders when events start."
+          },
+          {
+            "name": "NSCameraUsageDescription",
+            "usageDescription": "You'll be able to record video."
+          },
+          {
+            "name": "NSContactsUsageDescription",
+            "usageDescription": "Sync your contacts to easily find people you know on TikTok. Your contacts will only be used to help you connect with friends."
+          },
+          {
+            "name": "NSFaceIDUsageDescription",
+            "usageDescription": "We'll use this to unlock features that require added security."
+          },
+          {
+            "name": "NSLocalNetworkUsageDescription",
+            "usageDescription": "The TikTok app will be able to discover and connect with devices that have the TikTok app installed for camera and screen sharing."
+          },
+          {
+            "name": "NSLocationWhenInUseUsageDescription",
+            "usageDescription": "If location services are enabled, TikTok will collect, store and use your device's approximate location to improve your experience."
+          },
+          {
+            "name": "NSMicrophoneUsageDescription",
+            "usageDescription": "To record audio, allow us to access your Microphone."
+          },
+          {
+            "name": "NSPhotoLibraryAddUsageDescription",
+            "usageDescription": "To upload from or download to your device, allow access to your photos in your phone settings."
+          },
+          {
+            "name": "NSPhotoLibraryUsageDescription",
+            "usageDescription": "To upload from or download to your device, allow access to your photos in your phone settings."
+          },
+          {
+            "name": "NSUserTrackingUsageDescription",
+            "usageDescription": "This allows TikTok to provide you with a better ads experience."
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "47.5.0",
+          "date": "2026-10-30",
+          "localizedDescription": "TikTok 47.5.0 | Serenity\n\nAd-free build: feed ads, rewards ads, feed banners and top-feed items removed; adds a download menu and watermark removal.\n\n> [!NOTE]\n> - Requires iOS 15.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
+          "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0/TikTok-Serenity-47.5.0.ipa",
+          "size": 500087189,
+          "sha256": "78933137c293c5c1767670ddd33545675256bc7c129fcc85ec34ca802ab27359",
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
