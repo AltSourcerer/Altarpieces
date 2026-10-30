@@ -14,16 +14,16 @@
       "developerName": "AltSourcerer",
       "subtitle": "Ad-free TikTok",
       "category": "social-networking",
-      "version": "47.5.0-3",
+      "version": "47.5.0-4",
       "versionDate": "2026-10-30",
-      "versionDescription": "TikTok 47.5.0-3 | Serenity\n\nAd-free build: feed ads, soft/pseudo ads and feed banners are removed. License-free — no activation code, no gate, nothing to unlock.\n\n> [!NOTE]\n> - Requires iOS 15.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
-      "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0-3/TikTok-Serenity-47.5.0-3.ipa",
-      "size": 493969788,
+      "versionDescription": "TikTok 47.5.0-4 | Serenity\n\nAd-free build: feed ads, soft/pseudo ads and feed banners are removed. License-free — no activation code, no gate, nothing to unlock.\n\n> [!NOTE]\n> - Requires iOS 15.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
+      "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0-4/TikTok-Serenity-47.5.0-4.ipa",
+      "size": 493950902,
       "localizedDescription": "TikTok without ads — feed ads, soft/pseudo ads and banners removed. License-free, nothing to unlock.",
       "iconURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/assets/Serenity.png",
       "tintColor": "000000",
       "screenshotURLs": [],
-      "sha256": "523f5b130a5f1a292e6e0dfbdd63547da5e87dec70e33f04a2635407fa7ccb47",
+      "sha256": "43cc1674b7c376db57512fa3c07c3b7bdaca10f369f46b4f751a96581f70a5b3",
       "appPermissions": {
         "entitlements": [
           {
@@ -138,12 +138,12 @@
       },
       "versions": [
         {
-          "version": "47.5.0-3",
+          "version": "47.5.0-4",
           "date": "2026-10-30",
-          "localizedDescription": "TikTok 47.5.0-3 | Serenity\n\nAd-free build: feed ads, soft/pseudo ads and feed banners are removed. License-free — no activation code, no gate, nothing to unlock.\n\n> [!NOTE]\n> - Requires iOS 15.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
-          "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0-3/TikTok-Serenity-47.5.0-3.ipa",
-          "size": 493969788,
-          "sha256": "523f5b130a5f1a292e6e0dfbdd63547da5e87dec70e33f04a2635407fa7ccb47",
+          "localizedDescription": "TikTok 47.5.0-4 | Serenity\n\nAd-free build: feed ads, soft/pseudo ads and feed banners are removed. License-free — no activation code, no gate, nothing to unlock.\n\n> [!NOTE]\n> - Requires iOS 15.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
+          "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0-4/TikTok-Serenity-47.5.0-4.ipa",
+          "size": 493950902,
+          "sha256": "43cc1674b7c376db57512fa3c07c3b7bdaca10f369f46b4f751a96581f70a5b3",
           "minOSVersion": "15.0"
         }
       ]
