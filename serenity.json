@@ -3,7 +3,7 @@
   "identifier": "com.altarpieces.serenity",
   "apiVersion": "v2",
   "subtitle": "Ad-free TikTok builds",
-  "description": "AltStore/Feather/SideStore/LiveContainer source for Serenity — TikTok with sponsored feed ads removed. License-free: no activation code, no gate.",
+  "description": "AltStore/Feather/SideStore/LiveContainer source for Serenity — TikTok without ads, Shop or forced wellbeing screens. License-free: no activation code, no gate.",
   "iconURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/assets/Serenity.png",
   "website": "https://github.com/AltSourcerer/Altarpieces",
   "sourceURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/serenity.json",
@@ -14,16 +14,16 @@
       "developerName": "AltSourcerer",
       "subtitle": "Ad-free TikTok",
       "category": "social-networking",
-      "version": "47.5.0-6",
-      "versionDate": "2026-11-02",
-      "versionDescription": "TikTok 47.5.0-6 | Serenity\n\nAd-free build: sponsored feed ads are removed. License-free — no activation code, no gate, nothing to unlock.\n\n> [!NOTE]\n> - Requires iOS 15.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
-      "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0-6/TikTok-Serenity-47.5.0-6.ipa",
-      "size": 493951102,
-      "localizedDescription": "TikTok without ads — sponsored feed ads removed. License-free, nothing to unlock.",
+      "version": "47.5.0-7",
+      "versionDate": "2026-11-09",
+      "versionDescription": "TikTok 47.5.0-7 | Serenity\n\nAd-free build: sponsored feed ads are removed. TikTok Shop is hidden (Shop tab, cart, shop posts) and the unskippable wellbeing screens (Sleep Hours, daily screen-time lock) are suppressed — Family Pairing stays untouched. License-free — no activation code, no gate, nothing to unlock.\n\n> [!NOTE]\n> - Requires iOS 15.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
+      "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0-7/TikTok-Serenity-47.5.0-7.ipa",
+      "size": 493959757,
+      "localizedDescription": "TikTok without ads — sponsored feed ads removed, TikTok Shop hidden, unskippable wellbeing screens suppressed (Family Pairing untouched). License-free, nothing to unlock.",
       "iconURL": "https://raw.githubusercontent.com/AltSourcerer/Altarpieces/main/assets/Serenity.png",
       "tintColor": "000000",
       "screenshotURLs": [],
-      "sha256": "34d730b40456543e028c3ae8ec6bbe96aeb870d774b418027db8972c934e7d72",
+      "sha256": "750b800be5be711eaae8b8553a0336298dccbb4a898469e44e6345259df08a3f",
       "appPermissions": {
         "entitlements": [
           {
@@ -138,12 +138,12 @@
       },
       "versions": [
         {
-          "version": "47.5.0-6",
-          "date": "2026-11-02",
-          "localizedDescription": "TikTok 47.5.0-6 | Serenity\n\nAd-free build: sponsored feed ads are removed. License-free — no activation code, no gate, nothing to unlock.\n\n> [!NOTE]\n> - Requires iOS 15.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
-          "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0-6/TikTok-Serenity-47.5.0-6.ipa",
-          "size": 493951102,
-          "sha256": "34d730b40456543e028c3ae8ec6bbe96aeb870d774b418027db8972c934e7d72",
+          "version": "47.5.0-7",
+          "date": "2026-11-09",
+          "localizedDescription": "TikTok 47.5.0-7 | Serenity\n\nAd-free build: sponsored feed ads are removed. TikTok Shop is hidden (Shop tab, cart, shop posts) and the unskippable wellbeing screens (Sleep Hours, daily screen-time lock) are suppressed — Family Pairing stays untouched. License-free — no activation code, no gate, nothing to unlock.\n\n> [!NOTE]\n> - Requires iOS 15.0+\n> - Ad-hoc signed — install via AltStore / Feather / SideStore / LiveContainer",
+          "downloadURL": "https://github.com/AltSourcerer/Altarpieces/releases/download/serenity-47.5.0-7/TikTok-Serenity-47.5.0-7.ipa",
+          "size": 493959757,
+          "sha256": "750b800be5be711eaae8b8553a0336298dccbb4a898469e44e6345259df08a3f",
           "minOSVersion": "15.0"
         }
       ]
